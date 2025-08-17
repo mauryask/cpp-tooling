@@ -1,0 +1,3 @@
+/home/x32bit/CppTooling/HelloWorld/build/CMakeFiles/HelloWorld.dir
+/home/x32bit/CppTooling/HelloWorld/build/CMakeFiles/edit_cache.dir
+/home/x32bit/CppTooling/HelloWorld/build/CMakeFiles/rebuild_cache.dir

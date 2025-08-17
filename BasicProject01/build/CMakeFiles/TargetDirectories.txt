@@ -1,0 +1,4 @@
+/home/x32bit/CppTooling/BasicProject01/build/CMakeFiles/Library.dir
+/home/x32bit/CppTooling/BasicProject01/build/CMakeFiles/BasicProject01.dir
+/home/x32bit/CppTooling/BasicProject01/build/CMakeFiles/edit_cache.dir
+/home/x32bit/CppTooling/BasicProject01/build/CMakeFiles/rebuild_cache.dir
