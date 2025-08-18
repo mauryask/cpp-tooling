@@ -15,6 +15,17 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 set(EXECUTABLE_NAME Executable)
 set(LIBRARY_NAME Library)
 
+
+# If you do not want to set this option ON and OFF in the CMake file
+# Can be set ON/OFF from commnd line while build generation (use below command)
+# cmake -S . -B ./build -D COMPILE_EXECUTABLE=ON
+option(COMPILE_EXECUTABLE "Whether to compile the executable" OFF) 
+
 add_subdirectory(src)
 add_subdirectory(inc)
-add_subdirectory(app)
+# Conditional inclusion of app directory (The executable will not be created if set OFF)
+if(COMPILE_EXECUTABLE)
+   add_subdirectory(app)
+else() 
+   message("Without exe. compiling")   
+endif()   

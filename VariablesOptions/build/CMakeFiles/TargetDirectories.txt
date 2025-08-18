@@ -1,0 +1,14 @@
+/home/x32bit/CppTooling/VariablesOptions/build/CMakeFiles/edit_cache.dir
+/home/x32bit/CppTooling/VariablesOptions/build/CMakeFiles/rebuild_cache.dir
+/home/x32bit/CppTooling/VariablesOptions/build/src/CMakeFiles/edit_cache.dir
+/home/x32bit/CppTooling/VariablesOptions/build/src/CMakeFiles/rebuild_cache.dir
+/home/x32bit/CppTooling/VariablesOptions/build/src/my_lib/CMakeFiles/Library.dir
+/home/x32bit/CppTooling/VariablesOptions/build/src/my_lib/CMakeFiles/edit_cache.dir
+/home/x32bit/CppTooling/VariablesOptions/build/src/my_lib/CMakeFiles/rebuild_cache.dir
+/home/x32bit/CppTooling/VariablesOptions/build/inc/CMakeFiles/edit_cache.dir
+/home/x32bit/CppTooling/VariablesOptions/build/inc/CMakeFiles/rebuild_cache.dir
+/home/x32bit/CppTooling/VariablesOptions/build/inc/my_lib/CMakeFiles/edit_cache.dir
+/home/x32bit/CppTooling/VariablesOptions/build/inc/my_lib/CMakeFiles/rebuild_cache.dir
+/home/x32bit/CppTooling/VariablesOptions/build/app/CMakeFiles/Executable.dir
+/home/x32bit/CppTooling/VariablesOptions/build/app/CMakeFiles/edit_cache.dir
+/home/x32bit/CppTooling/VariablesOptions/build/app/CMakeFiles/rebuild_cache.dir

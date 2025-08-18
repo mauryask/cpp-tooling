@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/x32bit/CppTooling/BasicProject03/inc/my_lib/.
+CXX_INCLUDES = -I/home/x32bit/CppTooling/VariablesOptions/inc/my_lib/.
 
-CXX_FLAGS = -std=c++23
+CXX_FLAGS = -std=c++17
 
