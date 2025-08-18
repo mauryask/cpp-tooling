@@ -1,0 +1,10 @@
+/home/x32bit/CppTooling/BasicProject02/build/CMakeFiles/edit_cache.dir
+/home/x32bit/CppTooling/BasicProject02/build/CMakeFiles/rebuild_cache.dir
+/home/x32bit/CppTooling/BasicProject02/build/src/CMakeFiles/edit_cache.dir
+/home/x32bit/CppTooling/BasicProject02/build/src/CMakeFiles/rebuild_cache.dir
+/home/x32bit/CppTooling/BasicProject02/build/src/my_lib/CMakeFiles/Library.dir
+/home/x32bit/CppTooling/BasicProject02/build/src/my_lib/CMakeFiles/edit_cache.dir
+/home/x32bit/CppTooling/BasicProject02/build/src/my_lib/CMakeFiles/rebuild_cache.dir
+/home/x32bit/CppTooling/BasicProject02/build/app/CMakeFiles/Executable.dir
+/home/x32bit/CppTooling/BasicProject02/build/app/CMakeFiles/edit_cache.dir
+/home/x32bit/CppTooling/BasicProject02/build/app/CMakeFiles/rebuild_cache.dir
